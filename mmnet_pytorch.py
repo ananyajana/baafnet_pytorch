@@ -1,15 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@Author: Yue Wang
-@Contact: yuewangx@mit.edu
-@File: model.py
-@Time: 2018/10/13 6:35 PM
-Modified by 
-@Author: An Tao
-@Contact: ta19@mails.tsinghua.edu.cn
-@Time: 2020/3/9 9:32 PM
-https://github.com/AnTao97/dgcnn.pytorch/tree/97785863ff7a82da8e2abe0945cf8d12c9cc6c18
+@Author: Ananya Jana
+@Contact:  ananya.jana@rutgers.edu
+@Time: 2022/03/26 6:35 PM
+https://github.com/ananyajana/baafnet_pytorch
 """
 
 
